@@ -1,5 +1,5 @@
 # Servus
-Discord bot that connects to the api at **chris.no/utopia**.
+Discord bot that connects to the api at https://chriso.no/utopia.
 
 You need to create a bot at https://discord.com/developers.
 
